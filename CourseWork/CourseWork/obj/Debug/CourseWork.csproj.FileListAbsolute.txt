@@ -1,0 +1,19 @@
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.LoginForm.resources
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.SplashForm.resources
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.CategoryForm.resources
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.ProductForm.resources
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.SellerForm.resources
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.SellingForm.resources
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.EventLogForm.resources
+D:\Visual studio (projects)\CourseWork\CourseWork\bin\Debug\MyLittleFriend MS.exe.config
+D:\Visual studio (projects)\CourseWork\CourseWork\bin\Debug\MyLittleFriend MS.exe
+D:\Visual studio (projects)\CourseWork\CourseWork\bin\Debug\MyLittleFriend MS.pdb
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\MyLittleFriend MS.exe
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\MyLittleFriend MS.pdb
+D:\Visual studio (projects)\CourseWork\CourseWork\bin\Debug\Newtonsoft.Json.dll
+D:\Visual studio (projects)\CourseWork\CourseWork\bin\Debug\Newtonsoft.Json.xml
+D:\Visual studio (projects)\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
